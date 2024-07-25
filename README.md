@@ -1,5 +1,5 @@
 ﻿# game-em-linguagem-C
-Com o suporte da ferramenta ChatGPT da Open AI, desenvolva um game em linguagem C. O game pode ser básico, como por exemplo, um jogo da velha, jogo de dama, jogo de xadrez ou até mesmo algo mais completo, como um jogo de cartas.
+Um game em linguagem C. O game pode ser básico, como por exemplo, um jogo da velha, jogo de dama, jogo de xadrez ou até mesmo algo mais completo, como um jogo de cartas.
 
 
 //JOGO DA VELHA
